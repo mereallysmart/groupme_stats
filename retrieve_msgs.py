@@ -21,7 +21,7 @@ parser.add_argument('-c', '--csv', help='Name of csv file to write to.', default
 parser.add_argument('-o', '--overwrite', help='overwrite csv file', action="store_true")
 
 URL = 'https://api.groupme.com/v3'
-TOKEN = None
+TOKEN = Ds2oO5fbfJACXAjWpMTKxj9wc0OfFlzXMV3uMwAV -g Baker's Guild
 
 ########## STAT FUNCTIONS ##########
 
